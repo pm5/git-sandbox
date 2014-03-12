@@ -1,5 +1,5 @@
 # Hello, world.
 
-joyspong says hello.
+joysponge says hello.
 
 the world is cute.
